@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring full-stack developer | CS student at American institute of technologies| Passionate about tech | currently, i am working on react Next.js TypeScript project for online auctions .  
+Aspiring full-stack developer | CS student at American institute of Technologies| Passionate about tech  
 
 
 ## 🌐 Socials:
